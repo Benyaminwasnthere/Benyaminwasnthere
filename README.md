@@ -10,10 +10,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** and **AI Enthusiast
 
 ---
 
-
-
----
-
 ### 🚀 Featured Project:
 #### 🎉 [Confetti Tetris](https://confetti-3b50f.web.app/game)
 A unique twist on classic Tetris with **confetti physics, chain detection, and Firebase authentication**.
