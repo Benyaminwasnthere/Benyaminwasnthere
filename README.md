@@ -29,15 +29,11 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** and **AI Enthusiast
 
 ---
 
-### 🚀 Featured Projects:
+### 🚀 Featured Project:
 #### 🎉 [Confetti Tetris](https://confetti-3b50f.web.app/game)
 A unique twist on classic Tetris with **confetti physics, chain detection, and Firebase authentication**.
 
-#### 🍽️ [Tinder for Food Places](https://github.com/Benyaminwasnthere/Food-Vote-App)
-A web app where users create **voting sessions** to find the best restaurant choice among friends.
 
-#### 🤖 [Hand-Sign Recognition AI](https://github.com/Benyaminwasnthere/Hand-Sign-Recognition)
-Using **machine learning** to detect and classify hand signs in real-time.
 
 ---
 
